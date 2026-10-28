@@ -147,3 +147,12 @@ Use only the real photos in **"48th floor Callisto 2 - Circuit Makati"** and the
 | 15 | Review: total messages, cost per message, viewings booked |
 
 **Healthy benchmarks (Metro Manila real estate):** about ₱30–80 per Messenger conversation, so expect roughly **30–80 conversations** from the ₱2,400 Meta spend. Treat this as a rough estimate, not a guarantee. Qualify each lead quickly: *timeline, cash or financing, and when they can view*.
+
+---
+
+## 9. Finished assets
+
+- **Photo carousel (Canva, 8 slides, 1080×1440, sunrise palette):** https://www.canva.com/d/5GrCk-Qu5ZDU14L
+  Real photos only, brightened and warmed (no sky replacement or object edits). Slides: Hero balcony → ₱36M price → specs → Kitchen → Walk-in closet → Bedroom 2 → Bathrooms → CTA.
+- **Video reel (44.5s, 1080×1920, voiceover + graphics):** https://d2ol7oe51mr4n9.cloudfront.net/user_318NWCu0Rin1cU10rtSUpB61ONk/d30ca627-e3b4-40c6-a384-43ba61170137.mp4
+  Cut from the actual walkthrough clips (Drive › Callisto Tower 2 Video › Raw Videos). The voiceover is AI text-to-speech narration over real footage. No music is included: add a commercial-library track in-app when posting.
